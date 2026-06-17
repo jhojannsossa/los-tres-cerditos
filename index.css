@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(251, 199, 255);
+}
+img{
+    width: 700px;
+}
+h3{
+    color: darkorchid;
+}
+h2{
+    color: cornflowerblue;
+}
+h1{
+    color: blueviolet;
+}
+article{
+    color: blue;
+}
