@@ -6,13 +6,22 @@ img{
 }
 h3{
     color: darkorchid;
+    text-align: center;
 }
 h2{
     color: cornflowerblue;
+    text-align: center;
 }
 h1{
     color: blueviolet;
+    text-align: center;
 }
 article{
     color: blue;
+}
+nav{
+    background-color: blueviolet;
+}
+footer{
+    background-color: blueviolet;
 }
