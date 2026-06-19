@@ -2,10 +2,10 @@ body{
     background-color: rgb(251, 199, 255);
 }
 img{
-    width: 300px;
+    width: 300px; 
 }
 h3{
-    color: darkorchid;
+    color: rgb(171, 65, 224);
     text-align: center;
 }
 h2{
@@ -23,5 +23,5 @@ nav{
     background-color: blueviolet;
 }
 footer{
-    background-color: blueviolet;
+    background-color: rgb(137, 44, 223);
 }
